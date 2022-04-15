@@ -7,7 +7,7 @@
 <hr>
 <div align="right">
 <a href="https://github.com/PENEKhun">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=introduce%20PENEKhun's%20PASSSSSSION"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=display%20PENEKhun's%20PASSSSSSION"/>
 </a> 
 <h4>✏️ Languages</h4>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
