@@ -1,10 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=Cylinder&color=848cB5&height=300&section=header&text=Wanna%20be%20%Gosu%20Engineer&fontSize=70&animation=blinking)
    -->
-<div align="center">
-   안녕하세요<br/>
-   저는 물음표가 많은 학부생입니다.
-</div>
-<hr>
+
+
 <div align="right">
 <a href="https://github.com/PENEKhun">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=display%20PENEKhun's%20PASSSSSSION"/>
