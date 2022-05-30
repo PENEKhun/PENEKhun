@@ -4,7 +4,9 @@
 
 <div align="right">
 <a href="https://github.com/PENEKhun">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=display%20PENEKhun's%20PASSSSSSION&count_private=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&hide=stars&custom_title=display%20PENEKhun%27s%20PASSSSSSION&count_private=true&theme=radical"/>
+   
+   
 </a> 
    
 <h4>🙋🏻‍♂️ MoonSeonghun</h4>
@@ -21,7 +23,7 @@
    </div>
    
    <div align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penekhun&layout=compact&bg_color=C6D6F7&hide=css,html"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penekhun&layout=compact&hide=css,html&theme=radical"/>
   
 <h4>✏️ Languages</h4>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
