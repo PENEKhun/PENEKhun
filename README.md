@@ -4,7 +4,7 @@
 
 <div align="right">
 <a href="https://github.com/PENEKhun">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=display%20PENEKhun's%20PASSSSSSION"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=penekhun&bg_color=C6D6F7&hide=stars&custom_title=display%20PENEKhun's%20PASSSSSSION&count_private=true"/>
 </a> 
    
 <h4>🙋🏻‍♂️ MoonSeonghun</h4>
