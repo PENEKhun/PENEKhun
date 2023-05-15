@@ -13,7 +13,7 @@
    Majoring in information Security at <a href="http://www.sch.ac.kr/">Soonchunhyang University</a>
 <h4>🤔 My Link</h4>
    
-   <a href="coming soon..">Profile</a>
+   <a href="https://penekhun.github.io/about/" target="_blank">Profile</a>
    <a> | </a>
    <a href="https://penekhun.github.io/">Tech-Blog</a>
    <a> | </a>
