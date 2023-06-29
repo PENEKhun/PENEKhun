@@ -1,13 +1,17 @@
-import feedparser, time
+import feedparser
+import time
 
 URL = "https://blog.huni.kr/feed.xml"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
-markdown_text = """
-## ✅ Latest Blog Post
+markdown_text = ""
 
-"""  # list of blog posts will be appended here
+# Load contents of original.md
+with open("original.md", mode="r", encoding="utf-8") as f:
+    markdown_text = f.read().strip()
+
+markdown_text += "<br/>\n\n## ✅ Latest Blog Post\n\n"  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
@@ -15,7 +19,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
-        
-f = open("README.md", mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+
+# Write modified content to README.md
+with open("README.md", mode="w", encoding="utf-8") as f:
+    f.write(markdown_text)
