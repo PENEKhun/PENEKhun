@@ -27,6 +27,8 @@ Expand All
 </div>
 
 
+
+#### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [REST API에 대한 주저리 주저리...](https://penekhun.github.io/posts/REST-API%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A3%BC%EC%A0%80%EB%A6%AC-%EC%A3%BC%EC%A0%80%EB%A6%AC/)
 - [1년 전 개발한 프로젝트 건드려보기 3 &gt; 읽기 힘든 긴 메서드, 짧고 읽기 쉽게 바꾸기](https://penekhun.github.io/posts/1%EB%85%84-%EC%A0%84-%EA%B0%9C%EB%B0%9C%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B1%B4%EB%93%9C%EB%A0%A4%EB%B3%B4%EA%B8%B0-3/)
