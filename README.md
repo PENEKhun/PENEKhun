@@ -5,10 +5,10 @@
 
 <div>
 
-### 문성훈 (MoonSeonghun)
+### 👉🏼 문성훈 (MoonSeonghun)
 - Back-end Enginner를 꿈꾸고 있는 대학생입니다.
 - `지속 가능한 코드 작성` , `코드와 함께 성장하기`를 좋아합니다.
-- 자세한 내용이 궁금하다면 [상세 프로필](https://penekhun.github.io/about/) - 현재 작업중
+- 자세한 내용은 [상세 프로필](https://penekhun.github.io/about/)에서 확인해주세요. - 현재 작업중
 
 </div>
 
@@ -26,7 +26,7 @@
 |[summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes) |PR| 부트스트랩5 대응 [#74](https://github.com/DiemenDesign/summernote-image-attributes/issues/74) | -->
 
  
-#### [블로그](https://penekhun.github.io/) 최신 포스트
+#### 📕 [블로그](https://penekhun.github.io/) 최신 포스트
 <!-- BLOG-POST-LIST:START -->
 - [REST API에 대한 주저리 주저리...](https://penekhun.github.io/posts/REST-API%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A3%BC%EC%A0%80%EB%A6%AC-%EC%A3%BC%EC%A0%80%EB%A6%AC/)
 - [1년 전 개발한 프로젝트 건드려보기 3 &gt; 읽기 힘든 긴 메서드, 짧고 읽기 쉽게 바꾸기](https://penekhun.github.io/posts/1%EB%85%84-%EC%A0%84-%EA%B0%9C%EB%B0%9C%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B1%B4%EB%93%9C%EB%A0%A4%EB%B3%B4%EA%B8%B0-3/)
