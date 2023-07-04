@@ -8,6 +8,7 @@
 ### 👉🏼 문성훈 (MoonSeonghun)
 - Back-end Enginner를 꿈꾸고 있는 대학생입니다.
 - `지속 가능한 코드 작성` , `코드와 함께 성장하기`에 관심이 많습니다.
+- 남들이 봤을때 `같이 일하고 싶을 만한 코드`를 작성하려고 많이 노력합니다.
 - 자세한 내용은 [상세 프로필](https://penekhun.github.io/about/)에서 확인해주세요. - 현재 작업중
 
 </div>
@@ -16,14 +17,14 @@
   
 <!-- ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penekhun&layout=compact&hide=css,html&theme=radical) -->
 
-<!--
-### 컨트리뷰트
+
+### :octocat: 오픈소스 활동
 
 | Project                | Type   | Detail                          |
 |------------------------|----|--------------------------------|
-|[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| Fix missing xml escape for alt of preview image [#1113](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1113) |
-|[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| 빌드 관련 스크립트 수정 [#1114](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1114) |
-|[summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes) |PR| 부트스트랩5 대응 [#74](https://github.com/DiemenDesign/summernote-image-attributes/issues/74) | -->
+|[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| 미리보기 이미지의 alt 항목에 대해 누락된 XML escape 추가 [#1113](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1113) |
+|[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| 빌드 스크립트와 관련된 docs 수정 [#1114](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1114) |
+|[summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes) |PR| 부트스트랩5 대응 [#74](https://github.com/DiemenDesign/summernote-image-attributes/issues/74) |
 
  
 #### 📕 [블로그](https://penekhun.github.io/) 최신 포스트
