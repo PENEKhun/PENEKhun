@@ -29,11 +29,11 @@
  
 #### 📕 [블로그](https://penekhun.github.io/) 최신 포스트
 <!-- BLOG-POST-LIST:START -->
+- [심심해서 구현해보는 원티드 프리온보딩 - 0 들어가기 앞서](https://penekhun.github.io/posts/%EC%8B%AC%EC%8B%AC%ED%95%B4%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%9B%90%ED%8B%B0%EB%93%9C-2023-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%84%A0%EB%B0%9C%EA%B3%BC%EC%A0%9C/)
 - [MySQL 물리삭제와 논리삭제](https://penekhun.github.io/posts/MySQL-%EB%AC%BC%EB%A6%AC%EC%82%AD%EC%A0%9C%EC%99%80-%EB%85%BC%EB%A6%AC%EC%82%AD%EC%A0%9C/)
 - [@SneakyThrows가 뭐지??](https://penekhun.github.io/posts/@SneakyThrows%EA%B0%80-%EB%AD%98%EA%B9%8C/)
 - [떠나간 데이터... 끄나풀이라도 잡아보자... 😱 &lpar;MySQL binlog&rpar;](https://penekhun.github.io/posts/%EB%96%A0%EB%82%98%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%81%84%EB%82%98%ED%92%80%EC%9D%B4%EB%9D%BC%EB%8F%84-%EC%9E%A1%EC%95%84%EB%B3%B4%EC%9E%90/)
 - [이진트리, 이진탐색트리, B-트리 자료구조 찍어먹기 &lpar;작성중....&rpar;](https://penekhun.github.io/posts/%ED%8A%B8%EB%A6%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%B0%8D%EC%96%B4%EB%A8%B9%EA%B8%B0/)
-- [선착순 쿠폰 발급을 만들어보며 배우는 동시성 제어 &lpar;Select For Update&rpar;](https://penekhun.github.io/posts/%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-(%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD)/)
 <!-- BLOG-POST-LIST:END -->
 
 
