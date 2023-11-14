@@ -22,6 +22,7 @@
 
 | Project                | Type   | Detail                          |
 |------------------------|----|--------------------------------|
+|[spring-restdocs](https://github.com/spring-projects/spring-restdocs) |PR| StringBuilder에 문자열의 일부를 쓸 때 하위 문자열 생성 방지 [#900](https://github.com/spring-projects/spring-restdocs/pull/900) |
 |[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| 미리보기 이미지의 alt 항목에 대해 누락된 XML escape 추가 [#1113](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1113) |
 |[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) |PR| 빌드 스크립트와 관련된 docs 수정 [#1114](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1114) |
 |[summernote-image-attributes](https://github.com/DiemenDesign/summernote-image-attributes) |PR| 부트스트랩5 대응 [#74](https://github.com/DiemenDesign/summernote-image-attributes/issues/74) |
