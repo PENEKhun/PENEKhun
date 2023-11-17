@@ -1,12 +1,10 @@
+<!--
 ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
-
-
-### 👉🏼 문성훈 (MoonSeonghun)
-- Back-end Engineer를 꿈꾸고 있는 대학생입니다.  
-- [이메일](mailto:penekhun@gmail.com)으로 연락주 시면 2영업일 내로 회신드리겠습니다.  
-- [포트폴리오 보러가기](https://penekhun.notion.site/penekhun/PENEKhun-d595c0e8214b47c69c1ea74e16066d06)
+-->
+### 🙇🏻 안녕하세요
+[ ![portfolio icon](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-808080?style=for-the-badge&logo=Work&logoColor=fff) ](https://penekhun.notion.site/penekhun/PENEKhun-d595c0e8214b47c69c1ea74e16066d06)
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=penekhun&hide=stars&custom_title=display%20PENEKhun%27s%20PASSSSSSION&count_private=true&theme=radical) -->
