@@ -3,16 +3,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
 
 
-<div>
-
 ### 👉🏼 문성훈 (MoonSeonghun)
-- Back-end Engineer를 꿈꾸고 있는 대학생입니다.
-- 2013년에 컴퓨터 프로그래밍을 시작하여 지금까지 계속해서 애정을 가지고 프로그램을 개발하고 있습니다.
-- `지속 가능한 코드 작성` , `코드와 함께 성장하기`에 관심이 많습니다.
-- 남들이 봤을때 `같이 일하고 싶을 만한 코드`를 작성하려고 많이 노력합니다.
-- 자세한 내용은 [상세 프로필](https://penekhun.notion.site/penekhun/PENEKhun-d595c0e8214b47c69c1ea74e16066d06)에서 확인해주세요. - 현재 작업중
+- Back-end Engineer를 꿈꾸고 있는 대학생입니다.  
+- [이메일](mailto:penekhun@gmail.com)으로 연락주 시면 2영업일 내로 회신드리겠습니다.  
+- [포트폴리오 보러가기](https://penekhun.notion.site/penekhun/PENEKhun-d595c0e8214b47c69c1ea74e16066d06)
 
-</div>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=penekhun&hide=stars&custom_title=display%20PENEKhun%27s%20PASSSSSSION&count_private=true&theme=radical) -->
   
