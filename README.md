@@ -24,11 +24,11 @@
  
 #### 📕 [블로그](https://penekhun.github.io/) 최신 포스트
 <!-- BLOG-POST-LIST:START -->
+- [스프링시큐리티에서 ID/PW 기반 JWT 토큰 인증인가 구현](https://penekhun.github.io/posts/%EC%8B%AC%EC%8B%AC%ED%95%B4%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%9B%90%ED%8B%B0%EB%93%9C-2023-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%84%A0%EB%B0%9C%EA%B3%BC%EC%A0%9C-3/)
 - [사소하지만 스프링 프로젝트에 기여해 본 경험](https://penekhun.github.io/posts/%EC%82%AC%EC%86%8C%ED%95%98%EC%A7%80%EB%A7%8C-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4-%EB%B3%B8-%EA%B2%BD%ED%97%98/)
 - [원티드 프리온보딩 백엔드 API 서버 요구사항 분석](https://penekhun.github.io/posts/%EC%8B%AC%EC%8B%AC%ED%95%B4%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%9B%90%ED%8B%B0%EB%93%9C-2023-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%84%A0%EB%B0%9C%EA%B3%BC%EC%A0%9C-2/)
 - [웹 개발 초보자의 원티드 프리온보딩 개발 도전기 &lpar;실제 참여는 못했음 ㅎ&rpar;](https://penekhun.github.io/posts/%EC%8B%AC%EC%8B%AC%ED%95%B4%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%9B%90%ED%8B%B0%EB%93%9C-2023-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%84%A0%EB%B0%9C%EA%B3%BC%EC%A0%9C-1/)
 - [MySQL 물리삭제와 논리삭제](https://penekhun.github.io/posts/MySQL-%EB%AC%BC%EB%A6%AC%EC%82%AD%EC%A0%9C%EC%99%80-%EB%85%BC%EB%A6%AC%EC%82%AD%EC%A0%9C/)
-- [@SneakyThrows가 뭐지??](https://penekhun.github.io/posts/@SneakyThrows%EA%B0%80-%EB%AD%98%EA%B9%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 
