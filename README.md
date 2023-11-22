@@ -5,6 +5,7 @@
 -->
 ### 🙇🏻 안녕하세요
 [ ![portfolio icon](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-808080?style=for-the-badge&logo=Work&logoColor=fff) ](https://penekhun.notion.site/penekhun/PENEKhun-d595c0e8214b47c69c1ea74e16066d06)
+> 현재 작성 중이라 내용이 아직 완전하지 않을 수 있습니다. 수정이 완료되면 이 인용구를 제거하도록 하겠습니다. 감사합니다.
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=penekhun&hide=stars&custom_title=display%20PENEKhun%27s%20PASSSSSSION&count_private=true&theme=radical) -->
